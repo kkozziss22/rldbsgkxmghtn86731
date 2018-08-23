@@ -1,9 +1,8 @@
-package Á¦01Â÷½Ã;
-
-public class ½Ç½À01 {
+package ì œ01
+public class ì‹¤ìŠµ01 {
 
 	public static void main(String[] args) {
-	System.out.println("Hello, Wecome to Java ld");
+	System.out.println("Hello, Welcome to Java ld");
 
 	}
 
